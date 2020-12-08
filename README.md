@@ -53,8 +53,8 @@ import (
 	"log"
 	"time"
 
-	"github.com/jinzhu/gorm"
-	_ "github.com/jinzhu/gorm/dialects/mysql"
+	"github.com/symblCrowd/gorm"
+	_ "github.com/symblCrowd/gorm/dialects/mysql"
 	gormbulk "github.com/t-tiger/gorm-bulk-insert/v2"
 )
 
